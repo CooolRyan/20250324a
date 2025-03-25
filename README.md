@@ -9,4 +9,4 @@ gd
 jeongho427
 
 chmod
-ㅇ
+plzplz
