@@ -9,3 +9,4 @@ gd
 jeongho427
 
 chmod
+ㅇ
