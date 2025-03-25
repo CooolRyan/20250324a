@@ -10,4 +10,3 @@ jeongho427
 
 chmod
 plzplz
-good?
